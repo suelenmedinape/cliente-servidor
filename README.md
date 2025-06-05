@@ -1,6 +1,6 @@
 # 🖧 Aplicação Cliente-Servidor em Node.js
 
-Este projeto demonstra uma aplicação cliente-servidor construída com **JavaScript puro** utilizando o **Node.js**. A aplicação implementa conceitos básicos de **sistemas distribuídos** e **concorrência**, permitindo que múltiplos clientes se conectem a um servidor e recebam respostas manuais.
+Este projeto demonstra uma aplicação cliente-servidor construída com **JavaScript puro** utilizando o **Node.js**. A aplicação implementa conceitos básicos de **sistemas distribuídos** e **concorrência**, permitindo que múltiplos clientes se conectem a um servidor e recebam respostas automaticas.
 
 ---
 
